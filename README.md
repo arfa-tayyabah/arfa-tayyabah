@@ -1,21 +1,56 @@
-<h1 align="center">Hi 👋, I'm Arfa Tayyabah</h1>
-<h3 align="center">A passionate CS Undergrad building future in AI</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arfa-tayyabah&label=Profile%20views&color=0e75b6&style=flat" alt="arfa-tayyabah" /> </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=420&lines=Arfa+Tayyabah" alt="Arfa Tayyabah" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%C2%B7+Aspiring+Software+Engineer;Learning+in+public%2C+one+project+at+a+time;Exploring+AI+engineering+and+web+development" alt="Arfa Tayyabah — CS undergrad building software engineering skills" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfa-tayyabah" alt="arfa-tayyabah" /></a> </p>
+</div>
 
-- 📫 How to reach me **bscs24f16@namal.edu.pk**
+---
 
-<h3 align="left">Connect with me:</h3>
+## About Me
+
+I'm a Computer Science undergraduate building my software engineering skills through hands-on projects — from console games to management systems. Right now I'm focused on strengthening my fundamentals in programming, databases, and web development, and starting to explore AI engineering.
+
+I learn by building: every repo here is a step in that process, not a finished product.
+
+---
+
+## Tech Stack
+
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL / Databases" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfa-tayyabah&show_icons=true&locale=en&layout=compact" alt="arfa-tayyabah" /></p>
+## Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfa-tayyabah&show_icons=true&locale=en" alt="arfa-tayyabah" /></p>
+| Project | Description |
+|:---|:---|
+| 🗂️ [**Complaint Management and Tracking System**](https://github.com/arfa-tayyabah/Complaint-Management-and-Tracking-System) | A system for logging, tracking, and resolving complaints |
+| 📋 [**Record Management System**](https://github.com/arfa-tayyabah/Record_management_system) | A system for storing and managing records |
+| 🤖 [**AI Engineer Journey**](https://github.com/arfa-tayyabah/ai_engineer_journey) | Notes and projects from learning AI engineering |
+| 🎴 [**Uno Card Game**](https://github.com/arfa-tayyabah/uno-card-game) | A playable implementation of the Uno card game |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arfa-tayyabah&" alt="arfa-tayyabah" /></p>
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arfa-tayyabah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Arfa Tayyabah GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfa-tayyabah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Arfa Tayyabah most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arfa-tayyabah&theme=tokyonight&hide_border=true" alt="Arfa Tayyabah GitHub streak — current and longest contribution streak" />
+</div>
+
+
