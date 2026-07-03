@@ -45,11 +45,6 @@ I learn by building: every repo here is a step in that process, not a finished p
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arfa-tayyabah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Arfa Tayyabah GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfa-tayyabah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Arfa Tayyabah most used languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=arfa-tayyabah&theme=tokyonight&hide_border=true" alt="Arfa Tayyabah GitHub streak — current and longest contribution streak" />
 </div>
 
