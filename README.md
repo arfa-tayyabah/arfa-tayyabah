@@ -37,7 +37,7 @@ I learn by building: every repo here is a step in that process, not a finished p
 |:---|:---|
 | 🗂️ [**Complaint Management and Tracking System**](https://github.com/arfa-tayyabah/Complaint-Management-and-Tracking-System) | A system for logging, tracking, and resolving complaints |
 | 📋 [**RISC V Pipelined Processor**]((https://github.com/arfa-tayyabah/RISC-V_Pipelined_Processor)) | Five-Staged Pipelined Processor |
-| 🤖 [**AI Engineer Journey**](https://github.com/arfa-tayyabah/ai_engineer_journey) | Notes and projects from learning AI engineering |
+| 🤖 [**AI Engineer Journey**]((https://github.com/arfa-tayyabah/ai_engineer_journey)) | Notes and projects from learning AI engineering |
 | 🎴 [**Uno Card Game**](https://github.com/arfa-tayyabah/uno-card-game) | A playable implementation of the Uno card game |
 
 ---
