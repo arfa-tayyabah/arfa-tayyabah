@@ -2,7 +2,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=420&lines=Arfa+Tayyabah" alt="Arfa Tayyabah" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%C2%B7+Aspiring+Software+Engineer;Learning+in+public%2C+one+project+at+a+time;Exploring+AI+engineering+and+web+development" alt="Arfa Tayyabah — CS undergrad building software engineering skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%C2%B7+Aspiring+AI+Engineer;Learning+in+public%2C+one+project+at+a+time;Exploring+AI+engineering+and+web+development" alt="Arfa Tayyabah — CS undergrad building AI engineering skills" />
 
 </div>
 
